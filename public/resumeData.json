@@ -3,17 +3,17 @@
     "name":"Nordic-Giant Project",
     "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "bio":"I am an aspiring full-stack engineer with a passion for developing robust and user-friendly web applications. With expertise in React and Vue.js for front-end development, I also enjoy working with backend technologies such as Node.js and Express. I thrive in collaborative environments and am always eager to learn and grow. In my free time, I love exploring new technologies, contributing to open-source projects, and sharing my knowledge with the developer community.",
+    "contactmessage":"Feel free to reach out to me for collaboration, project ideas, or any inquiries. I'm always excited to connect with fellow developers and tech enthusiasts. Let's create something amazing together!",
+    "email": "leticiajlchen@gmail.com",
     "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/Mistylo",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"xxx Street",
+      "city":"Shanghai",
+      "state":"China",
+      "zip": "1111111"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -40,19 +40,19 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Mistylo",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Java, JavaScript, TypeScript",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"National University of Ireland, Galway",
+        "degree":"Masters in Software Design & Development",
+        "graduated":"April 2026",
+        "description":"Java Programming, Internet Programming..."
       },
       {
         "school":"School #1 Maybe College?",
@@ -78,15 +78,15 @@
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
+        "level":"50%"
       },
       {
         "name":"VueJs",
-        "level":"55%"
+        "level":"60%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"CSS",
@@ -94,7 +94,7 @@
       },
       {
         "name":"PHP",
-        "level":"80%"
+        "level":"50%"
       },
       {
         "name":"Swift",
@@ -102,7 +102,7 @@
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"90%"
       }
     ]
   },
